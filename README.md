@@ -6,4 +6,5 @@ the maze is generated.
 
 ## Video Walkthrough
 Here is a short animated video.
+Grid 25x25 cells
 <img src='http://g.recordit.co/af2Ow6ElEN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
